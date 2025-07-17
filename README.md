@@ -195,7 +195,3 @@ Repository Contents
 
 Basic_LAN_Setup.pkt: Cisco Packet Tracer project file.
 README.md: This documentation file.
-ip_assignment_table.md: Optional file with the IP addressing table.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
